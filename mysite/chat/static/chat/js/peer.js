@@ -1,7 +1,6 @@
 // map peer usernames to corresponding RTCPeerConnections
 // as key value pairs
 var mapPeers = {};
-
 // peers that stream own screen
 // to remote peers
 var mapScreenPeers = {};
